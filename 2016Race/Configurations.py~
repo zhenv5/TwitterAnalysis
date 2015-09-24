@@ -5,7 +5,7 @@ atoken = "3745565674-ghOsDSzHesz6wjrzvaqEVfam6XyYlK6sw9spOmu"
 asecret = "1QXkHRefgPMFJP4SuuRecLo7I7Zf76JJm2OalUnJqSedW"
 
 #dataset
-resultFile = "RawData/TwitterElectionData3.txt"
+resultFile = "RawData/TwitterElectionData.txt"
 
 # get track words for filtering
 def get_Track_Words():
